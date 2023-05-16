@@ -1,2 +1,2 @@
 # test
-for exercise in github
+for github exercise in class
